@@ -38,7 +38,7 @@ Thanks for playing!
 </b></pre>
 
 ## Version 1
-Create a working version of the game that matches the example prototype shown above. This version should be completed using only procedural coding learned in CSC 175.
+Create a working version of the game that matches the example prototype interface shown above. This version should be completed using only procedural coding learned in CSC 175.
 
 ## Version 2
 Use an object oriented paradigm approach to refactor the version 1 code. The completed project must be a fully object oriented solution that consists of multiple classes.
