@@ -2,10 +2,12 @@
 
 ## Game Description
 In each round of the Bulls and Cows game, the computer generates a secret non-repeating 4 digit
-number such as **4970** with the player trying to guess the code in as few attempts as possible. 
+number such as **4970** with the player trying to guess the number in as few attempts as possible. 
 After each guess, the computer will provide feedback indicating how many digits in the
 guess matched the same digit <u>and</u> position in the secret number ("Bulls") and how many digits 
 in the guess matched the same digit, but not the same position in the secret number ("Cows"). 
+The player uses the feedback to deduce the secret number, making new guesses and refining their 
+strategy based on the bull and cow counts.
 
 ## Game Interface Prototype Example
 <pre><b>In the Bulls and Cows game, the computer generates a secret non-repeating 4 digit
@@ -34,4 +36,11 @@ Play another round (y/n): N
 
 Thanks for playing!
 </b></pre>
+
+## Version 1
+Create a working version of the game that matches the example prototype shown above. This version should be completed using only procedural coding learned in CSC 175.
+
+## Version 2
+Use an object oriented paradigm approach to refactor the version 1 code. The completed project must be a fully object oriented solution that consists of multiple classes.
+
 
